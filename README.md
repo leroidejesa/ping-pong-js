@@ -1,4 +1,4 @@
-the ping-pong test
+#the ping-pong test
 **by Leroi Dejesa**
 
 ### DESCRIPTION
@@ -12,4 +12,4 @@ Clone the repository:
 $ git clone https://github.com/leroidejesa/ping-pong-js.git
 ```
 
-Then simply open `ping-pong.html` in your favorite browser and input a number!
+Then simply open `./ping-pong.html` in your favorite browser and input a number!
